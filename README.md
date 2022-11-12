@@ -88,7 +88,7 @@ Each reply could be edited/deleted by a <strong>long press</strong> on it. Howev
 #### Hard to find a picture posted long ago
 When people need to refer to a picture posted long ago or they simply want to look back to that picture, they have to scroll through a lot of later information to find it.
 
-#### Solution
+### Solution
 <img src="/6_gif.gif" align="right" width="300px"/>
 <strong>Create a Gallery that stores all pictures </strong> <br>
 Clicking on the button at the top right corner leads people to a gallery that stores images or videos. The images are divided into chucks sorted by the order of time. For instance, all images/videos from last month are grouped together.
