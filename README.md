@@ -66,13 +66,13 @@ By clicking on a message, the user could expand a dropdown list of replies inste
 
 What if there are 50 replies, for example? Then people would have to scroll a lot to get to the next message. Here are two solutions:
 
-#### Solution 1. 
+### Solution 1. 
 <img src="/3_gif.gif" align="right" width="300px"/>
 <strong>Make the thread scrollable while the message always stay on the screen. </strong> <br>
 The user could click on the message to fold the replies at any time and get to the next message; or directly click on the next message if it appears on screen.
 <br clear="right"/>
 
-#### Solution 2. 
+### Solution 2. 
 <img src="/4_gif.gif" align="right" width="300px"/>
 <strong>Display at most four replies and swipe left for the next few replies. </strong> <br>
 I decided to pick this solution because the message always stay on the screen such that the user could fold the thread with a single click. Besides, internal scroll should be avoided according to the Material Design Guideline. 
