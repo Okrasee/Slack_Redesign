@@ -1,5 +1,5 @@
 # Slack - UX Redesign
-<img src="/profile_picture_final.jpg">
+<img src="/profile picture final.png">
 
 ## Overview
 Slack is widely used in our school across a wide range of disciplines. In design classes, students post their work and receive peer feedback; In engineering classes, students discuss about their group projects. 
