@@ -8,7 +8,7 @@ I have decided to redesign the mobile Slack’s Thread feature by
 * **making the interface more accessible**
 * **adding one functionality**
 
-in order to make browsing and searching more efficient.
+in order to make **browsing** and **searching** more efficient.
 
 ## Research
 I conducted user study by interviewing eight people. The distribution is shown as below.
@@ -37,6 +37,7 @@ Among the six people who have used it,
 <p align="center">
 <img src="/stats4.png" alt="alt text" width = "500">
 </p>
+
 Through user study, I find that people use mobile Slack Thread for **heavy text-based conversation** and **viewing pictures**. For either purpose, they reflect that there is some inconvenience. To facilitate users to browse through wordy conversation, I decide to change the **layout of Thread**; To help users find target pictures quickly, I decide to **create a shortcut**.
 
 ### Problem 1
